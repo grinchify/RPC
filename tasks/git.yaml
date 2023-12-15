@@ -4,7 +4,8 @@
   git:
     repo: 'https://github.com/solana-labs/solana.git'
     dest: /mnt/solana
-    version: tags/{{ solana_version }}
+    depth: 1
+    version: "v1.16"
 
 - name: build solana
   become: true
