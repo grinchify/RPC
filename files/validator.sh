@@ -34,10 +34,10 @@ exec /mnt/solana/target/release/solana-validator \
 --account-index-exclude-key kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6 \
 --account-index-exclude-key metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s \
 --tpu-use-quic \
---known-validator DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy \
+--known-validator EARNynHRWg6GfyJCmrrizcZxARB3HVzcaasvNa8kBS72 \
 --known-validator EgxVyTgh2Msg781wt9EsqYx4fW8wSvfFAHGLaJQjghiL \
 --known-validator PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb \
 --known-validator AHCGTSrztg5PqxDN1pi59YQbJE4wMHyBrsZ9P6DrTui3 \
 --known-validator 4VrjyXQT61WFSjuG3ehgqZUK1jqvYqB46veQbXLotq3n \
---known-validator AnoQ3whjumVaJsBX4r7skgGebzq2sk2XTqPtV7tqnTHf \
---known-validator 8MuGDCx6q7fEz52yoHoiDby4TEVJncYuWCGAjCWSrtPx
+--known-validator FGj3nQTn2Lwe9KkaKnFGm4HcxLSh8B8TjpvP4CinP4iX \
+--known-validator GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt
